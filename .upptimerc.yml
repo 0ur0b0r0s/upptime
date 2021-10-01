@@ -12,7 +12,8 @@ sites:
 
 status-website:
   cname: upptime.mconf.dev
-  logoUrl: https://mconf.com/images/logo_footer.png
+  logoUrl: https://mconf.com/images/apple-icon-57x57.png
+  name: Mconf
   introTitle: "**Mconf Status Page**"
   navbar:
     - title: Status
