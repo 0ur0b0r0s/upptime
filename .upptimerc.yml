@@ -15,10 +15,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.mconf.dev
     #baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Elos** Além da videoconferência. Incentivando a colaboração."
-  introMessage: Status page which uses **real-time** data from our [GitHub repository](https://github.com/0ur0b0r0s/upptime).
+  logoUrl: https://mconf.com/images/logo_navbar.png
+  name: Mconf
+  introTitle: "**Mconf Status Page**"
   navbar:
     - title: Status
       href: /
