@@ -7,8 +7,8 @@ sites:
     url: https://elos.vc
   - name: Elos (h.elos.dev)
     url: https://h.elos.dev
-  - name: Elos (api.elos.dev)
-    url: https://api.elos.dev
+  - name: Elos (api.elos.vc)
+    url: https://api.elos.vc
   - name: Mconf
     url: https://mconf.com
 
