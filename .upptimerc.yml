@@ -8,6 +8,7 @@ sites:
   - name: Elos (h.elos.dev)
     url: https://h.elos.dev
   - name: Elos (api.elos.vc)
+    check: "tcp-ping"
     url: https://api.elos.vc
   - name: Mconf
     url: https://mconf.com
