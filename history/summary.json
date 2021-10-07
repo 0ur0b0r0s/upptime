@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/elos.vc",
     "slug": "elos-elos-vc",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 391,
-    "timeDay": 190,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "uptime": "81.46%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "81.46%",
+    "uptimeYear": "81.46%",
+    "time": 376,
+    "timeDay": 308,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2021-10-06": 12
+      "2021-10-07": 50,
+      "2021-10-06": 1402
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 175,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 421,
+    "timeDay": 298,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 138,
-    "timeWeek": 293,
-    "timeMonth": 293,
-    "timeYear": 293,
+    "time": 279,
+    "timeDay": 205,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
