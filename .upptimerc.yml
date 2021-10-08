@@ -1,17 +1,22 @@
 # Change these first
-owner: 0ur0b0r0s # Your GitHub organization or username, where this repository lives
+owner: mconf # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Elos (elos.vc)
     url: https://elos.vc
-  - name: Elos (h.elos.dev)
-    url: https://h.elos.dev
-  - name: Elos (api.elos.vc)
-    check: "tcp-ping"
+  - name: Elos API
     url: https://api.elos.vc
+    expectedStatusCodes:
+      - 404
   - name: Mconf
     url: https://mconf.com
+  - name: Elos (Homologação)
+    url: https://h.elos.dev
+  - name: Elos API (Homologação)
+    url: https://api.h.elos.dev
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: upptime.mconf.dev
@@ -25,7 +30,7 @@ status-website:
       href: https://elos.vc/site/pt
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: light
 
 workflowSchedule:
   graphs: "0 0 * * *"
