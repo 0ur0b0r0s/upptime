@@ -19,10 +19,10 @@ sites:
       - 404
 
 status-website:
-  cname: upptime.mconf.dev
+  cname: status.h.elos.dev
   logoUrl: https://mconf.com/images/apple-icon-57x57.png
   name: Mconf
-  introTitle: "**Mconf Status Page**"
+  introTitle: "**Elos Status**"
   navbar:
     - title: Status
       href: /
